@@ -16,11 +16,7 @@ A coding IDE built around agents instead of bolted onto them. Runs on your machi
 
 If you've been renting a black box, this is the opposite of that.
 
-<p align="center">
-  <a href="https://voidleap.com/">
-    <img src="https://voidleap.com/screenshot_running.png" alt="Voidleap Code in action" width="800">
-  </a>
-</p>
+[![Voidleap Code Screenshot](https://voidleap.com/screenshot_running.png)](https://voidleap.com/)
 
 ## Why it exists
 
