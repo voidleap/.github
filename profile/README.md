@@ -16,7 +16,7 @@ A coding IDE built around agents instead of bolted onto them. Runs on your machi
 
 If you've been renting a black box, this is the opposite of that.
 
-[![Voidleap Code Screenshot](https://voidleap.com/screenshot_running.png)](https://voidleap.com/)
+[![Voidleap Code Screenshot](https://github.com/voidleap/.github/blob/eb1990b8fb81830566033537b5b81bc1882990aa/profile/screenshot_running.png)](https://voidleap.com/)
 
 ## Why it exists
 
