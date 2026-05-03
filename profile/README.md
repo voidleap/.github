@@ -63,8 +63,6 @@ We're letting people in a few at a time. Sign up at [voidleap.com](https://voidl
 We only email about your invite. No newsletter, no marketing.
 
 ## Links
-
-- 🐙 [GitHub](https://github.com/voidleap): public bundles, marketplaces, plugin samples
 - 𝕏 [X](https://x.com/voidleapcom)
 - 💼 [LinkedIn](https://www.linkedin.com/company/voidleap/)
 - 📺 [YouTube](https://www.youtube.com/@voidleap-com)
