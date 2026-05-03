@@ -16,6 +16,12 @@ A coding IDE built around agents instead of bolted onto them. Runs on your machi
 
 If you've been renting a black box, this is the opposite of that.
 
+<p align="center">
+  <a href="https://voidleap.com/">
+    <img src="https://voidleap.com/screenshot_running.png" alt="Voidleap Code in action" width="800">
+  </a>
+</p>
+
 ## Why it exists
 
 Most agent coding tools are free because they create lock-in, collect your data, or bundle inference subscriptions. We didn't want any of that. The good engineers we know spend half their time fighting their tools: invisible context, opaque pricing, frozen prompts, no way to tell why an agent did the wrong thing. So we built the IDE we wanted: visible, configurable, and ours.
