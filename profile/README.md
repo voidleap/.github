@@ -63,7 +63,7 @@ We're letting people in a few at a time. Sign up at [voidleap.com](https://voidl
 We only email about your invite. No newsletter, no marketing.
 
 ## Links
-- 😸 [Product Hunt]([https://x.com/voidleapcom](https://producthunt.com/products/voidleap)
+- 😸 [Product Hunt](https://producthunt.com/products/voidleap)
 - 𝕏 [X](https://x.com/voidleapcom)
 - 💼 [LinkedIn](https://www.linkedin.com/company/voidleap/)
 - 📺 [YouTube](https://www.youtube.com/@voidleap-com)
