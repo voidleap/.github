@@ -6,7 +6,7 @@
 
 This org hosts public bundles, plugins, and marketplaces for **Voidleap Code**, a local-first IDE for agentic coding. The app itself is closed-source for now.
 
-🌐 [voidleap.com](https://voidleap.com) · 💸 [pricing](https://voidleap.com/pricing) · ✉️ [waitlist](https://voidleap.com) · 🎟 [jump the queue](https://tally.so/r/xXaAvv)
+🌐 [voidleap.com](https://voidleap.com) · 💸 [pricing](https://voidleap.com/pricing) · ✉️ [waitlist](https://voidleap.com)
 
 ---
 
@@ -63,10 +63,12 @@ We're letting people in a few at a time. Sign up at [voidleap.com](https://voidl
 We only email about your invite. No newsletter, no marketing.
 
 ## Links
+- 😸 [Product Hunt]([https://x.com/voidleapcom](https://producthunt.com/products/voidleap)
 - 𝕏 [X](https://x.com/voidleapcom)
 - 💼 [LinkedIn](https://www.linkedin.com/company/voidleap/)
 - 📺 [YouTube](https://www.youtube.com/@voidleap-com)
 - 👥 [Facebook](https://www.facebook.com/voidleapcom)
+- 
 
 ## Legal
 
