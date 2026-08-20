@@ -1,18 +1,21 @@
 # Voidleap Code
 
-> A harness, not a wrapper. An IDE, not a black box. Every agent in one view.
+> A full coding environment for developers building software with AI agents. A harness, not a wrapper. Every agent in one view. Your machine, your keys or local models. Nothing routes through us.
 
-**Status:** Early access. Founding subscribers only. Desktop app for macOS and Windows, signed auto-updates.
+**Status:** Voidleap Code 1.0 is available for macOS and Windows.
+[voidleap.com](https://voidleap.com)
 
-This org hosts public bundles, plugins, and marketplaces for **Voidleap Code**, a local-first IDE for agentic coding. The app itself is closed-source for now.
+This org hosts public bundles, plugins, and marketplaces for **Voidleap Code**, a local-first agentic IDE. The app itself is closed-source for now.
 
-🌐 [voidleap.com](https://voidleap.com) · 💸 [pricing](https://voidleap.com/pricing) · ✉️ [waitlist](https://voidleap.com)
-
----
+***
 
 ## What it is
 
-A coding IDE built around agents instead of bolted onto them. Runs on your machine. Bring your own provider keys, or run a local model and skip providers entirely. Prompts and code go directly to whichever provider you picked. Nothing routes through Voidleap servers. There is no Voidleap inference, no token markup, no telemetry pipeline reading your repo.
+An agentic IDE built around agents instead of bolted onto them. It runs on your machine. Voidleap Code uses bring your own key. Connect a [supported provider](https://voidleap.com/models-and-providers/) subscription or API key, or use a local model. Inference runs between your machine and the provider or endpoint you choose. 
+
+We don't sell inference. No token markup.
+
+Your code and prompts do not pass through Voidleap servers. No telemetry pipeline reading your repo.
 
 If you've been renting a black box, this is the opposite of that.
 
@@ -25,7 +28,7 @@ Most agent coding tools are free because they create lock-in, collect your data,
 ## What's in the box
 
 - **Local-first architecture.** All state in `~/.voidleap/`. Optional macOS Seatbelt sandbox. Per-project browser sessions so cookies don't leak between clients.
-- **Bring any model.** Nine providers out of the box: Anthropic, OpenAI, Google Gemini, GitHub Copilot, Ollama, LMStudio, OpenRouter, Azure, Bedrock. Switch per thread, per agent, per turn. Local models get full tool-call parity (Harmony, Gemma, Qwen, Hermes formats).
+- **Use any model.** Nine providers out of the box: Anthropic, OpenAI, Google Gemini, GitHub Copilot, Ollama, LMStudio, OpenRouter, Azure, Bedrock. Switch per thread, per agent, per turn. Local models get full tool-call parity (Harmony, Gemma, Qwen, Hermes formats).
 - **Visual context manager.** Click any message, tool call, or file and tell the agent to forget it. Slash commands `/context`, `/trim`, `/prune`, `/compact`. AI-assisted prune in suggest mode so you review before anything is removed. Last three user turns protected from auto-compact.
 - **Observability dashboard.** 30+ charts: cost trend, per-model, per-agent, per-thread, per-tool, latency, cache hit rate. Filter, expand, export. Same event stream the agent runs on, so the numbers match reality.
 - **Control center.** Live LLM call feed across every running thread. Pause, resume, stop, jump in. Grouped by Running, Needs Input, Idle, Errored.
@@ -42,36 +45,38 @@ Most agent coding tools are free because they create lock-in, collect your data,
 
 Desktop app, macOS and Windows. No bun, no npm, no build step. Signed releases, auto-updates.
 
-Download links go out with your invite when a slot opens.
+[**Download Free**](https://voidleap.com/download)
 
-## Pricing
+Free for macOS and Windows. Free account required. No credit card. No trial clock.
 
-| Tier | Price | Status |
-| --- | --- | --- |
-| Early Access | €50/mo or €450/yr (3 months free) | Open to founding subscribers |
-| Standard | TBA | When the product leaves early access |
-| Enterprise | Custom | [Contact us](https://voidleap.com/contact) |
+## Start with Free
 
-14-day money-back guarantee. Cancel anytime. You bring the tokens, we don't mark them up.
+Judge for yourself.
 
-Full breakdown: [voidleap.com/pricing](https://voidleap.com/pricing).
+Run Voidleap Code on your own work. Inspect the result, then decide whether it belongs in your workflow.
 
-## Get on the waitlist
+Additional tier exists when you need even more.
 
-We're letting people in a few at a time. Sign up at [voidleap.com](https://voidleap.com) for the standard waitlist, or fill out [this 3-question survey](https://tally.so/r/xXaAvv) to jump the queue.
+| Tier | Status |
+| --- | --- |
+| Free | The agentic IDE on your machine, free for as long as you like. Your projects, your keys, your hardware. |
+| Pro | Full functionality for the solo developer. Optionally host a server, so agents keep running with the client closed. |
+| Team | Built for working together. Shared servers and threads, real-time collaboration, up to 50 managed seats. |
+| Enterprise | For organisations that set their own rules. On-premises runtime, central policy, SSO, unlimited seats. |
 
-We only email about your invite. No newsletter, no marketing.
+See [plan comparison](https://voidleap.com/pricing) for more details.
 
 ## Links
+
+- 🌐 [Website](https://voidleap.com)
 - 😸 [Product Hunt](https://producthunt.com/products/voidleap)
 - 𝕏 [X](https://x.com/voidleapcom)
 - 💼 [LinkedIn](https://www.linkedin.com/company/voidleap/)
 - 📺 [YouTube](https://www.youtube.com/@voidleap-com)
 - 👥 [Facebook](https://www.facebook.com/voidleapcom)
-- 
 
 ## Legal
 
-Voidleap Code is proprietary, closed-source software. This GitHub organization hosts open assets only: public plugin bundles, marketplace samples, and integration code. The desktop app itself is distributed via signed installers to subscribers.
+Voidleap Code is proprietary, closed-source software. This GitHub organization hosts open assets only: public plugin bundles, marketplace samples, and integration code. The desktop app itself is distributed via signed installers.
 
 Built by self-funded developers, for developers.
